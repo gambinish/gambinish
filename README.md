@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Nick, and I'm a MBA that writes code. Currently building web and mobile applications @sudokrew and @agathon.
+My name is Nick, and I'm a software developer :nerd_face: with an MBA degree (on the way!) :mortar_board:. Currently building web and mobile applications [@sudokrew](https://www.sudokrew.com/) and [@agathon](https://www.agathongroup.com/).
 
 I am a full-stack developer, and lately my work has been leaning into the front-end application layer. I write lots of javascript, typescript, node.js, and php.
 
-![setup](https://user-images.githubusercontent.com/35090461/104110203-75742b00-5279-11eb-9242-defae2915951.jpg)
+Feel free to [connect](https://www.linkedin.com/in/nicholas-gambino/), I love talking about tech, opportunity, and the future! :rocket:
 
 <!--
 **gambinish/gambinish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
