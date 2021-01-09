@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![setup](https://user-images.githubusercontent.com/35090461/104110203-75742b00-5279-11eb-9242-defae2915951.jpg)
+
 <!--
 **gambinish/gambinish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
