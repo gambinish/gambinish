@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nick, and I'm a software developer :nerd_face: with an MBA degree :mortar_board:. Currently building web and mobile applications [@sudokrew](https://www.sudokrew.com/).
+My name is Nick, and I'm a software engineer :nerd_face: with an MBA degree :mortar_board:. Currently building web and mobile applications [@sudokrew](https://www.sudokrew.com/).
 
 I am a full-stack developer, and lately my work has been leaning into the front-end application layer. I write lots of javascript, typescript, node.js, and php.
 
