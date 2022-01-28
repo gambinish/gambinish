@@ -2,7 +2,7 @@
 
 My name is Nick, and I'm a software engineer :nerd_face: with an MBA degree :mortar_board:. Currently building web and mobile applications [@sudokrew](https://www.sudokrew.com/).
 
-I am interested in data vizualization, crypto, and cloud infrastructure. Lately my work has been leaning into the front-end application layer. I write lots of javascript, typescript, and node.js.
+I am interested in data vizualization, crypto, and cloud infrastructure. I write lots of javascript, typescript, and node.js.
 
 Feel free to [connect](https://www.linkedin.com/in/nicholas-gambino/), I love talking about tech, opportunity, and the future! :rocket:
 
