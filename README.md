@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Nick, and I'm a software engineer :nerd_face: with an MBA degree :mortar_board:. Currently building web and mobile applications [@sudokrew](https://www.sudokrew.com/) and teaching full-stack development [@trilogyed](https://www.trilogyed.com/)
+My name is Nick, and I'm a software engineer :nerd_face: with an MBA degree :mortar_board:. Currently building games [@conceptarthouse](https://www.conceptarthouse.com/) and teaching full-stack development [@trilogyed](https://www.trilogyed.com/)
 
-I am interested in crypto and cloud infrastructure. I write lots of JavaScript, TypeScript, and Node.js.
+I am interested in crypto, gaming, and cloud infrastructure (not necessarily in that order). I write lots of JavaScript, TypeScript, and Node.js.
 
-Feel free to [connect](https://www.linkedin.com/in/nicholas-gambino/), I love talking about tech, opportunity, and the future! :rocket:
+Feel free to [connect](https://www.linkedin.com/in/nicholas-gambino/), I love talking about the future! :rocket:
 
 <!--
 **gambinish/gambinish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
