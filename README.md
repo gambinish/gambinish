@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Nick, and I'm a software engineer :nerd_face: with an MBA degree :mortar_board:. Currently building web3 [@conceptlabs](https://www.conceptlabs.xyz/) and teaching full-stack development [@trilogyed](https://www.trilogyed.com/)
-
-I am interested in crypto, gaming, and cloud infrastructure (not necessarily in that order). I write lots of JavaScript.
+My name is Nick, and I'm a software engineer :nerd_face: with an MBA degree :mortar_board:. I write lots of JavaScript.
 
 Feel free to [connect](https://www.linkedin.com/in/nicholas-gambino/), I love talking about the future! :rocket:
 
