@@ -2,7 +2,7 @@
 
 My name is Nick, and I'm a software engineer :nerd_face: with an MBA degree :mortar_board:. I write lots of JavaScript.
 
-Feel free to [connect](https://www.linkedin.com/in/nicholas-gambino/), I love talking about the future! :rocket:
+Feel free to [connect](https://www.linkedin.com/in/nicholas-gambino/) and check out my [website](https://www.nickgambino.dev). I love talking about the future! :rocket:
 
 <!--
 **gambinish/gambinish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
